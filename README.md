@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @chandan1081
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+echo "# first-project" >> README.md
 
-<!---
-chandan1081/chandan1081 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Vit init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/nishant-Tiwari24/first-project.git
+
+git push u origin main
